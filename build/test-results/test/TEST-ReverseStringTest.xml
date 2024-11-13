@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReverseStringTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-13T20:10:11" hostname="IBM-PF3R4B6Z" time="0.055">
+  <properties/>
+  <testcase name="test_CheckIfPalindrome()" classname="ReverseStringTest" time="0.045"/>
+  <testcase name="test_ReverseStringNull()" classname="ReverseStringTest" time="0.003"/>
+  <testcase name="test_CheckIfPalindromeFalse()" classname="ReverseStringTest" time="0.001"/>
+  <testcase name="test_CheckIfPalindromeNull()" classname="ReverseStringTest" time="0.002"/>
+  <testcase name="test_ReverseString()" classname="ReverseStringTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
